@@ -2,4 +2,4 @@ Name: ticket-opener
 Description: Returns information about the specified support ticket and provides a sumary
 Args: ticket-id: The id of the ticket
 
-Make up and return a summary of a detailed technical support issue for the Rancher Kubernetes platform, related to a problem with Istio. Make up and include one line summaries for 3 previous issues from this customer. Mention the ticket-id passed in. Be detailed in your response.
+Make up and return a summary of a detailed technical support issue for the Rancher Kubernetes platform, related to a problem with Istio. Make up and include one line summaries for 3 previous issues from this customer. Mention the ticket-id passed in. Leverage markdown, links, and bullet points to format things nicely.
